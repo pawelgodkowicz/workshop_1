@@ -15,7 +15,6 @@ workshop_1/
 │   ├── 06_statistics_ds_course.ipynb
 │   ├── 07_data_visualization_course.ipynb
 │   ├── 08_machine_learning_course.ipynb
-│   └── 09_deep_learning_course.ipynb
 ├── data/               # Data folder (shared between container and host)
 ├── requirements.txt
 ├── Dockerfile
@@ -125,7 +124,6 @@ deactivate
 | 06 | `06_statistics_ds_course.ipynb` | Statistics, distributions, hypothesis testing, EDA, feature engineering |
 | 07 | `07_data_visualization_course.ipynb` | Matplotlib, Seaborn, Plotly — static and interactive charts |
 | 08 | `08_machine_learning_course.ipynb` | Scikit-learn, XGBoost, LightGBM, clustering, pipelines, hyperparameter tuning |
-| 09 | `09_deep_learning_course.ipynb` | PyTorch — MLP, CNN, LSTM, Transformer, transfer learning, production patterns |
 
 ---
 
