@@ -1,0 +1,26 @@
+# Core scientific stack
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.18
+kaleido>=0.2.1
+
+# Machine Learning
+scikit-learn>=1.4
+xgboost>=2.0
+lightgbm>=4.1
+
+# Jupyter
+jupyterlab>=4.0
+ipywidgets>=8.1
+nbformat>=5.9
+
+# Deep Learning (CPU build installed separately in Dockerfile)
+# torch, torchvision — see Dockerfile
+
+# SQL / DB
+sqlalchemy>=2.0
